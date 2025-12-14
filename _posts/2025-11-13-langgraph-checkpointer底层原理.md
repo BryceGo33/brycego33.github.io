@@ -1,3 +1,13 @@
+---
+title:      Langgraph Checkpointer底层原理
+date:       2025-11-13
+categories:
+  - Tech
+tags:
+  - Agent
+  - Langchain
+---
+
 国庆回来后，就all in到Agentic chatflow的开发中的（还把人拉到外地去集中办公，累死人啦啊啊啊）
 然后看到langgraph出1.0版本了，正好也趁这个机会（恰好也有和同事做技术分享），就看下checkpointer的底层原理。（之前只是知道怎么用，但不太清楚原理）
 
